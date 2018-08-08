@@ -734,6 +734,7 @@ h6.h1 {
 }
 .color-white {
   color: #ffffff;
+  font-weight: bold;
 }
 .btn-btn {
   padding: 15px 25px;
