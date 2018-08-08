@@ -1815,6 +1815,9 @@ textarea {
 .badge-success {
   background-color: #26dad2;
 }
+.badge-automated {
+  background-color: #29d846;
+}
 .badge-info {
   background-color: #1976d2;
 }
